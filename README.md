@@ -16,8 +16,8 @@ Coleção de estudos práticos desenvolvidos para transformar conceitos de progr
 Clone o repositório e execute o arquivo `main.py` do projeto desejado.
 
 ```bash
-git clone https://github.com/GuilhermeBezerra0212/Projetos.git
-cd Projetos
+git clone https://github.com/GuilhermeBezerra0212/projetos-python.git
+cd projetos-python
 python "Calculadora/main.py"
 ```
 
